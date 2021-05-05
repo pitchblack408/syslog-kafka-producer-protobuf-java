@@ -1,0 +1,8 @@
+May  3 06:25:45 ip-179-25-83-146 dhclient[893]: DHCPREQUEST of 179.25.83.208 on eth0 to 179.25.83.193 port 67 (xid=0x243cfa9e)
+May  3 06:25:45 ip-179-25-83-146 dhclient[893]: DHCPACK of 179.25.83.208 from 179.25.83.193
+May  3 06:25:45 ip-179-25-83-146 dhclient[893]: bound to 179.25.83.208 -- renewal in 1409 seconds.
+May  3 06:30:01 ip-179-25-83-146 CRON[24523]: (root) CMD (/usr/local/bin/ntpsync >/usr/local/bin/sync_RESULTS 2>&1)
+May  3 06:45:01 ip-179-25-83-146 CRON[26216]: (root) CMD (/usr/local/bin/ntpsync >/usr/local/bin/sync_RESULTS 2>&1)
+May  3 06:49:15 ip-179-25-83-146 dhclient[893]: DHCPREQUEST of 179.25.83.208 on eth0 to 179.25.83.193 port 67 (xid=0x243cfa9e)
+May  3 06:49:15 ip-179-25-83-146 dhclient[893]: DHCPACK of 179.25.83.208 from 179.25.83.193
+May  3 06:49:15 ip-179-25-83-146 dhclient[893]: bound to 179.25.83.208 -- renewal in 1484 seconds.

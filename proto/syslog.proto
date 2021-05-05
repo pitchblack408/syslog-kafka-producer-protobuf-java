@@ -1,0 +1,20 @@
+syntax = "proto2";
+
+package tutorial;
+
+option java_multiple_files = true;
+option java_package = "com.vdm.edm.protos";
+option java_outer_classname = "SystemLogProtos";
+
+message LogLine {
+    optional string timestamp = 2;
+    optional string hostname = 3;
+    optional string application = 5;
+    optional string process_id = 6;
+    optional string message = 7;
+}
+
+
+message SystemLog {
+    repeated LogLine line = 1;
+}
